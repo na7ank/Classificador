@@ -23,7 +23,7 @@ Analisando dados, treinando e avaliando modelos como:
 - **Texto:** Os estudantes de engenharia demoram o dobro do tempo na faculdade.
   - **Predição:** educação
 
-- **Texto:** O vírus comeu o soldo.
+- **Texto:** O vírus comeu o solto.
   - **Predição:** saúde
 
 - **Texto:** Jogar League of Legends dá raiva.
@@ -31,3 +31,5 @@ Analisando dados, treinando e avaliando modelos como:
 
 - **Texto:** Eu gosto de carros
   - **Predição:** carro
+
+## [Principal.py](./classifier.ipynb)
