@@ -1,10 +1,10 @@
 ## Objetivo
-O objetivo é entender melhor como classificar títulos de notícias e textos em geral, a partir de dados pré-rotulados, utilizando modelos de aprendizado de máquina.
+O objetivo é entender melhor como classificar títulos de notícias e textos em geral, a partir de *dados pré-rotulados*, utilizando modelos de *aprendizado de máquina supervisionado*.
 
 ![Amostras](/imgs/under_samples_freqs.png)
 
 ## Descrição do Projeto
-Desafio de classificação automática de títulos de notícias, um problema comum em processamento de linguagem natural (PLN). Ao treinar e avaliar diferentes modelos de aprendizado de máquina, buscamos encontrar a melhor abordagem para essa tarefa, o que pode ter aplicações em diversas áreas, como organização de conteúdo, recomendação de notícias e detecção de tendências.
+Desafio de classificação automática de títulos de notícias, um problema comum em processamento de linguagem natural (PLN). Ao treinar e avaliar diferentes modelos de aprendizado de máquina, buscamos encontrar a melhor abordagem. Permitindo aplicações em diversas áreas, como organização de conteúdo, recomendação de notícias e detecção de tendências.
 
 ## Classificador
 Este classificador utiliza bibliotecas como:
