@@ -1,6 +1,15 @@
 ## Objetivo
 O objetivo é entender melhor como classificar títulos de notícias e textos em geral, a partir de **dados pré-rotulados**, utilizando modelos de **aprendizado de máquina supervisionado**.
 
+Exemplo da estrutura de dados utilizados:
+| Class | Text |
+|----------|----------|
+| esporte   | Protesto antes mesmo do jogo   |
+| economia   | O que é o FGTS, como funciona e quem pode sacar?   |
+| carro   | Como é o Renault Kwid elétrico   |
+| economia |  O que é inflação? Entenda  |
+
+
 ![Amostras](/imgs/under_samples_freqs.png)
 
 ## Descrição
