@@ -19,7 +19,7 @@ Analisando dados, treinando e avaliando modelos como:
 
 ![Precisão](/imgs/accuracy.png)
 
-### Exemplos de Classificação
+## Exemplos de Classificação
 - **Texto:** Os estudantes de engenharia demoram o dobro do tempo na faculdade.
   - **Predição:** educação
 
