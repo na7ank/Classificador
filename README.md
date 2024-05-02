@@ -33,3 +33,6 @@ Analisando dados, treinando e avaliando modelos como:
   - **Predição:** carro
 
 ## [Treinamento](./classifier.ipynb)
+
+## Conclusão
+O modelo que apresentou o melhor desempenho, levando em conta a acurácia, foi **Regressão Logística (LR)**.
