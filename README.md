@@ -32,4 +32,4 @@ Analisando dados, treinando e avaliando modelos como:
 - **Texto:** Eu gosto de carros
   - **Predição:** carro
 
-## [Inicial](./classifier.ipynb)
+## [Treinamento](./classifier.ipynb)
